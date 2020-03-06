@@ -1,0 +1,14 @@
+C:\learning\.net core\graphQL\GraphQL_POC\GraphQL_POC\bin\Debug\netcoreapp2.1\GraphQL_POC.deps.json
+C:\learning\.net core\graphQL\GraphQL_POC\GraphQL_POC\bin\Debug\netcoreapp2.1\GraphQL_POC.runtimeconfig.json
+C:\learning\.net core\graphQL\GraphQL_POC\GraphQL_POC\bin\Debug\netcoreapp2.1\GraphQL_POC.runtimeconfig.dev.json
+C:\learning\.net core\graphQL\GraphQL_POC\GraphQL_POC\bin\Debug\netcoreapp2.1\GraphQL_POC.dll
+C:\learning\.net core\graphQL\GraphQL_POC\GraphQL_POC\obj\Debug\netcoreapp2.1\GraphQL_POC.csprojAssemblyReference.cache
+C:\learning\.net core\graphQL\GraphQL_POC\GraphQL_POC\obj\Debug\netcoreapp2.1\GraphQL_POC.csproj.CoreCompileInputs.cache
+C:\learning\.net core\graphQL\GraphQL_POC\GraphQL_POC\obj\Debug\netcoreapp2.1\GraphQL_POC.RazorAssemblyInfo.cache
+C:\learning\.net core\graphQL\GraphQL_POC\GraphQL_POC\obj\Debug\netcoreapp2.1\GraphQL_POC.RazorAssemblyInfo.cs
+C:\learning\.net core\graphQL\GraphQL_POC\GraphQL_POC\obj\Debug\netcoreapp2.1\GraphQL_POC.AssemblyInfoInputs.cache
+C:\learning\.net core\graphQL\GraphQL_POC\GraphQL_POC\obj\Debug\netcoreapp2.1\GraphQL_POC.AssemblyInfo.cs
+C:\learning\.net core\graphQL\GraphQL_POC\GraphQL_POC\obj\Debug\netcoreapp2.1\GraphQL_POC.RazorTargetAssemblyInfo.cache
+C:\learning\.net core\graphQL\GraphQL_POC\GraphQL_POC\bin\Debug\netcoreapp2.1\GraphQL_POC.pdb
+C:\learning\.net core\graphQL\GraphQL_POC\GraphQL_POC\obj\Debug\netcoreapp2.1\GraphQL_POC.dll
+C:\learning\.net core\graphQL\GraphQL_POC\GraphQL_POC\obj\Debug\netcoreapp2.1\GraphQL_POC.pdb
